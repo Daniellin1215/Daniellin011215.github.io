@@ -1,14 +1,12 @@
 ---
-title: 👩🏼‍🏫 Teach academic courses
-summary: Embed videos, podcasts, code, LaTeX math, and even test students!
-date: 2023-10-24
+title: My Christmas Reading Summary for the Year 
+summary: Daniel Lin's reading summary for 2024.
+date: 2024-12-11
 math: true
 authors:
   - admin
 tags:
-  - Hugo
-  - Hugo Blox Builder
-  - Markdown
+  
 image:
   caption: 'Embed rich media such as videos and LaTeX math'
 ---
