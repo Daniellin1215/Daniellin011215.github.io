@@ -8,9 +8,7 @@ title: Daniel Lin
 first_name: Daniel
 last_name: Lin
 
-# Status emoji
-status:
-  icon: ☕️
+
 
 # Is this the primary user of the site?
 superuser: true

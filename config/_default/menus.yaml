@@ -5,9 +5,9 @@ main:
   - name: Home
     url: /
     weight: 10
-  - name: Topics
-    url: tags/
+  - name: Working Papers
+    url: working_papers/
     weight: 20
-  - name: Uses
-    url: uses/
+  - name: My Photos
+    url: /
     weight: 30
